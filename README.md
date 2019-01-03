@@ -1,4 +1,4 @@
-The blog brings light on advanced diagnostics techniques, such as:
+Welcome to the home of advanced diagnostics techniques, such as:
 
 * Memory dump analysis
 * Dynamic code profiling
