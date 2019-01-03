@@ -1,4 +1,11 @@
-The blog brings light on advanced diagnostics techniques.
+The blog brings light on advanced diagnostics techniques, such as:
+
+* Memory dump analysis
+* Dynamic code profiling
+* Investigating phantom issues
+* In-depth explanations for certain Sitecore parts
+
+Content leaves in wiki (for now).
 
 ## Memory Dumps stuff
 
